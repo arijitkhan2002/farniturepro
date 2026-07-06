@@ -1,5 +1,5 @@
 
-import bannerImg from '../../assets/banner.png';
+import bannerImg from '../../assets/Banner.png';
 import Products from './Products';
 const ShopPage = () => {
   return (
