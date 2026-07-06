@@ -1,6 +1,6 @@
 
 import { useContext, useState } from "react";
-import { products } from "../../utils/product";//s
+import { products } from "../../utils/Product";//s
 
 import btnIcon from "../../assets/button-icon.png"
 import ProductCard from "./ProductCard";
